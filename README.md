@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://app.powerbi.com/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power Bi" height="50" /></a> 
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastApi" height="50" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://www.softformance.com/wp-content/uploads/2022/07/1.3-FastAPI-Logo.jpg" alt="FastApi" height="50" /></a>
 <a href="https://www.atlassian.com/es/software/jira" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="Jira" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJZeTG3x0TjfjqoQ9gOZRD11fbYpuwHQ0a4wZWM_8&s" alt="FastApi" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  

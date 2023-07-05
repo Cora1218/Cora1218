@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Pandas" height="50" /></a>
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://ih1.redbubble.net/image.4735347867.0819/ur,pin_large_front,square,600x600.jpg" alt="Numpy" height="50" /></a>
-<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="Matplotlib" height="50" /></a>
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://scipy-lectures.org/_images/sphx_glr_plot_polar_thumb.png" height="50" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUuApeQW9pPhF_rb862UWhTp9U5W_8VRRPbQ2zQFmwBDJAllbw5WPDPD9_VP7qPKS4tU&usqp=CAU" alt="Seaborn" height="50" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" height="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="50" /></a> 

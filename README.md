@@ -1,6 +1,9 @@
 ![image](img/bannerGit.png)
+
 ---
+
 ## Hola!, Soy M. Guadalupe (Cora) <img src="https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+
 ---
 
 <!--

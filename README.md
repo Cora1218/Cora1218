@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Skills 
 <table><tr>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://banner2.cleanpng.com/20180716/puq/kisspng-github-computer-icons-repository-arch-linux-icon-5b4c339a252752.2582053515317206021522.jpg" alt="Pandas" height="50" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Pandas" height="50" /></a>
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="Numpy" height="50" /></a>
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="Matplotlib" height="50" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUuApeQW9pPhF_rb862UWhTp9U5W_8VRRPbQ2zQFmwBDJAllbw5WPDPD9_VP7qPKS4tU&usqp=CAU" alt="Seaborn" height="50" /></a>

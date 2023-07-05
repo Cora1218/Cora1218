@@ -14,6 +14,7 @@ el área de datos.
 
 ## Contacto
 e-mail: cora12@live.com.mx
+
 linkedIn: https://www.linkedin.com/in/mar%C3%ADa-guadalupe-mart%C3%ADnez-1a489173/
 <!--
 **Cora1218/Cora1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

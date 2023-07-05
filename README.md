@@ -2,6 +2,16 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                      Hola!, Soy M. Guadalupe (Cora) <img src="https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
+### Quién soy?
+Soy una persona responsable, con
+un interés por el análisis de datos.
+Poseo una maestría en ciencias de la
+ingeniería y actualmente estoy en la
+etapa final de un bootcamp en Data
+Science en Soy Henry, donde he
+adquirido sólidos conocimientos en
+el área de datos.
+
 <!--
 **Cora1218/Cora1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

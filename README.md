@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://ih1.redbubble.net/image.4735347867.0819/ur,pin_large_front,square,600x600.jpg" alt="Numpy" height="50" /></a>
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://scipy-lectures.org/_images/sphx_glr_plot_polar_thumb.png" height="50" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUuApeQW9pPhF_rb862UWhTp9U5W_8VRRPbQ2zQFmwBDJAllbw5WPDPD9_VP7qPKS4tU&usqp=CAU" alt="Seaborn" height="50" /></a>
-<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png" height="50" /></a>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://ih1.redbubble.net/image.193727600.0984/st,small,507x507-pad,600x600,f8f8f8.u8.jpg" height="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="Visual Studio Code" height="50" /></a> 
 <a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://jupyter.org/assets/share.png" alt="Jupyter Notebook" height="50" /></a> 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 

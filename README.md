@@ -13,7 +13,7 @@ adquirido sólidos conocimientos en
 el área de datos.
 
 ## Background
-CV: 
+CV: (docs/CV.pdf)
 
 ## Contacto
 e-mail: cora12@live.com.mx

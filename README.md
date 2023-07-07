@@ -75,4 +75,4 @@ Here are some ideas to get you started:
 
 ### Equipo de trabajo: 
 
-<a href="" target="_blank"><img style="margin: 10px" src="img/team" alt="Python" height="50" /></a>
+![image](img/team.png)

@@ -15,7 +15,7 @@ el área de datos.
 ## Background
 [Cv](docs/CV.pdf)
 
-## Contacto
+## Contacto 
 e-mail: cora12@live.com.mx
 
 linkedIn: https://www.linkedin.com/in/mar%C3%ADa-guadalupe-mart%C3%ADnez-1a489173/

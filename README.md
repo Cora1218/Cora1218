@@ -93,8 +93,12 @@ Here are some ideas to get you started:
     Google Drive
     
     Jira
+
+    Visual studio code (VSC)
     
     Python
+
+    Pandas, numpy, matplotlib
     
     Google Cloud Platform (GCP) 
 

@@ -12,7 +12,7 @@ Science en Soy Henry, donde he
 adquirido sólidos conocimientos en
 el área de datos.
 
-## Background
+## <img src="img/cv_icon.png" width= "30" height= "30"> Background
 [Cv](docs/CV.pdf)
 
 ## Contacto 

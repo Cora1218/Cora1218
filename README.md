@@ -62,13 +62,17 @@ Here are some ideas to get you started:
   sector gastronómico. 
 
   Asimismo, se desarrolló un sistema de recomendación para los usuarios de ambas plataformas capaz de recomendar restaurantes y platillos similares basados 
- en experiencias de consumo previo.
+  en experiencias de consumo previo.
 
 ### Tareas realizadas:
+    Desarrollo de Extracción, Transformación y Carga de datos (ETL, por sus siglas en inglés).
+
     Creación de una base de datos (Data Warehouse).
 
-    Reporte y análisis significativos del top 5 estados más poblados.
-
-    Mejoramiento de estrategias de marketing por medio de campañas microsegmentadas.
+    Análisis y dashboard de KPIs relevantes en Power BI del top 5 estados más poblados.
 
     Entrenamiento y puesta en producción de un modelo de machine learning.
+
+### Equipo de trabajo: 
+
+<a href="" target="_blank"><img style="margin: 10px" src="" alt="Python" height="50" /></a>

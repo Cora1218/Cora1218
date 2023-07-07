@@ -65,7 +65,10 @@ Here are some ideas to get you started:
  en experiencias de consumo previo.
 
 ### Tareas realizadas:
-  - Creación de una base de datos (Data Warehouse).
-  - Reporte y análisis significativos del top 5 estados más poblados.
-  - Mejoramiento de estrategias de marketing por medio de campañas microsegmentadas.
-  - Entrenamiento y puesta en producción de un modelo de machine learning.
+    Creación de una base de datos (Data Warehouse).
+
+    Reporte y análisis significativos del top 5 estados más poblados.
+
+    Mejoramiento de estrategias de marketing por medio de campañas microsegmentadas.
+
+    Entrenamiento y puesta en producción de un modelo de machine learning.

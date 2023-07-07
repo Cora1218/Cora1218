@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   Asimismo, se desarrolló un sistema de recomendación para los usuarios de ambas plataformas capaz de recomendar restaurantes y platillos similares basados 
   en experiencias de consumo previo.
 
-### Tareas realizadas:
+   ### Tareas realizadas:
     
     Creación de un Data Lake en Cloud Storage co la data en crudo.
 

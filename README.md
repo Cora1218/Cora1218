@@ -15,7 +15,7 @@ el área de datos.
 ## <img src="img/cv_icon.png" width= "30" height= "30"> Background
 [Cv](docs/CV.pdf)
 
-## Contacto 
+## <img src="img/contact_icon.png" width= "30" height= "30"> Contacto 
 e-mail: cora12@live.com.mx
 
 linkedIn: https://www.linkedin.com/in/mar%C3%ADa-guadalupe-mart%C3%ADnez-1a489173/
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-## Herramientas y lenguajes de programación 
+## <img src="img/tool_icon.png" width= "30" height= "30"> Herramientas y lenguajes de programación 
 <table><tr>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Pandas" height="50" /></a>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </tr></table> 
 
-## Proyectos 
+## <img src="img/project1_icon.png" width= "30" height= "30"> Proyectos 
 
 - Sistema de recomendación de restaurantes a base de reseñas de google maps y yelp de USA.
   Se hizo un analisis de las reseñas de los usuarios de las plataformas Google Maps y Yelp sobre restaurantes para visualizar por medio de un dashboard los 

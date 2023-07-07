@@ -65,12 +65,14 @@ Here are some ideas to get you started:
   en experiencias de consumo previo.
 
 ### Tareas realizadas:
+    
+    Creación de un Data Lake en Cloud Storage co la data en crudo.
 
     Desarrollo de Extracción, Transformación y Carga de datos (ETL, por sus siglas en inglés).
 
     Elaboración de Diagrama de Entidad y Relación (DER) y diccionario de datos.
 
-    Creación de una base de datos (Data Warehouse).
+    Creación de una base de datos (Data Warehouse) con Big Query.
 
     Análisis y diseño de dashboard con KPIs relevantes en Power BI del top 5 estados más poblados.
 
@@ -83,11 +85,21 @@ Here are some ideas to get you started:
     Presentación con storytelling.
 
 ### Metodología:
+    
     SCRUM
 
 ### Herramientas:
-    Jira
 
+    Google Drive
+    
+    Jira
+    
+    Python
+    
+    Google Cloud Platform (GCP) 
+
+    Power BI
+    
 ### Equipo de trabajo: 
 
 ![image](img/team.png)

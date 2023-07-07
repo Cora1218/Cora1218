@@ -65,13 +65,28 @@ Here are some ideas to get you started:
   en experiencias de consumo previo.
 
 ### Tareas realizadas:
+
     Desarrollo de Extracción, Transformación y Carga de datos (ETL, por sus siglas en inglés).
+
+    Elaboración de Diagrama de Entidad y Relación (DER) y diccionario de datos.
 
     Creación de una base de datos (Data Warehouse).
 
-    Análisis y dashboard de KPIs relevantes en Power BI del top 5 estados más poblados.
+    Análisis y diseño de dashboard con KPIs relevantes en Power BI del top 5 estados más poblados.
 
-    Entrenamiento y puesta en producción de un modelo de machine learning.
+    Entrenamiento y puesta en producción de un modelo de machine learning (ML).
+
+    Documentación.
+
+    Creación de repositorio en GitHub.
+
+    Presentación con storytelling.
+
+### Metodología:
+    SCRUM
+
+### Herramientas:
+    Jira
 
 ### Equipo de trabajo: 
 

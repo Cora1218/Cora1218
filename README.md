@@ -105,12 +105,46 @@ Here are some ideas to get you started:
     Power BI
 
     GitHub
+
+### Roles
+
+    Data Analyst 
+   
+    Data Engineer
+    
+    Data Scientist
     
 ### Equipo de trabajo: 
 
 ![image](img/team.png)
 
-- Accidentes aéreos.
+- Sistema de recomendación de películas y consultas referentes a películas, series  o documentales.
+Se desarrolló un sistema end to end.
+
+### Tareas realizadas:
+
+    ETL.
+    EDA.
+    Modelo de Machine Learning (ML).
+    Se desarrolló una interfaz de programación de aplicaciones (API, por sus siglas en inglés) para el deployment del sistema.
+
+### Herramientas:
+
+    Python
+    
+    Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn
+    
+    Visual Studio Code
+    
+    Plataformas para el despliegue de apps (Deta y FastApi)
+    
+    Entorno Virtual.
+
+### Rol:
+
+    Data Engineer
+
+- Análisis de accidentes aéreos.
 Con base a la data proporcionada de accidentes aéreos se realizó un dashboard interactivo en Power BI con 4 KPIs solicitados.
 
 ### Tareas realizadas:
@@ -121,7 +155,7 @@ Con base a la data proporcionada de accidentes aéreos se realizó un dashboard 
 
     Se hizo un dashboard interactivo para la visualización de los datos relevantes por medio de gráficas y KPIs.
 
-### Herramientas
+### Herramientas:
 
     Visual studio code (VSC)
     
@@ -132,5 +166,8 @@ Con base a la data proporcionada de accidentes aéreos se realizó un dashboard 
     Power BI
 
     GitHub
-    
 
+### Rol:
+
+    Data Analyst
+    

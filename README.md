@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-## Herramientas y Lenguajes de programación 
+## Herramientas y lenguajes de programación 
 <table><tr>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Pandas" height="50" /></a>
@@ -109,3 +109,28 @@ Here are some ideas to get you started:
 ### Equipo de trabajo: 
 
 ![image](img/team.png)
+
+- Accidentes aéreos.
+Con base a la data proporcionada de accidentes aéreos se realizó un dashboard interactivo en Power BI con 4 KPIs solicitados.
+
+### Tareas realizadas:
+
+    Se realizó ETL.
+    
+    Se desarrolló un análisis exploratorio de datos (EDA por sus siglas en inglés).
+
+    Se hizo un dashboard interactivo para la visualización de los datos relevantes por medio de gráficas y KPIs.
+
+### Herramientas
+
+    Visual studio code (VSC)
+    
+    Python
+
+    Pandas, numpy, matplotlib, seaborn
+
+    Power BI
+
+    GitHub
+    
+

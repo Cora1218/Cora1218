@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </tr></table> 
 
-## Proyectos realizados
+## Proyectos 
 
 - Sistema de recomendación de restaurantes a base de reseñas de google maps y yelp de USA.
   Se hizo un analisis de las reseñas de los usuarios de las plataformas Google Maps y Yelp sobre restaurantes para visualizar por medio de un dashboard los 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
  en experiencias de consumo previo.
 
 ### Tareas realizadas:
-  Creación de una base de datos (Data Warehouse).
-  Reporte y análisis significativos del top 5 estados más poblados.
-  Mejoramiento de estrategias de marketing por medio de campañas microsegmentadas.
-  Entrenamiento y puesta en producción de un modelo de machine learning.
+  - Creación de una base de datos (Data Warehouse).
+  - Reporte y análisis significativos del top 5 estados más poblados.
+  - Mejoramiento de estrategias de marketing por medio de campañas microsegmentadas.
+  - Entrenamiento y puesta en producción de un modelo de machine learning.

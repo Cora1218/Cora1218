@@ -64,8 +64,8 @@ Here are some ideas to get you started:
   Asimismo, se desarrolló un sistema de recomendación para los usuarios de ambas plataformas capaz de recomendar restaurantes y platillos similares basados 
  en experiencias de consumo previo.
 
-Tareas realizadas:
-Creación de una base de datos (Data Warehouse).
-Reporte y análisis significativos del top 5 estados más poblados.
-Mejoramiento de estrategias de marketing por medio de campañas microsegmentadas.
-Entrenamiento y puesta en producción de un modelo de machine learning.
+# Tareas realizadas:
+  Creación de una base de datos (Data Warehouse).
+  Reporte y análisis significativos del top 5 estados más poblados.
+  Mejoramiento de estrategias de marketing por medio de campañas microsegmentadas.
+  Entrenamiento y puesta en producción de un modelo de machine learning.

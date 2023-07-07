@@ -12,6 +12,9 @@ Science en Soy Henry, donde he
 adquirido sólidos conocimientos en
 el área de datos.
 
+## Background
+CV: 
+
 ## Contacto
 e-mail: cora12@live.com.mx
 

@@ -84,11 +84,11 @@ Here are some ideas to get you started:
 
     Presentación con storytelling.
 
-### Metodología:
+   ### Metodología:
     
     SCRUM
 
-### Herramientas:
+   ### Herramientas:
 
     Google Drive
     
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
     GitHub
 
-### Roles
+   ### Roles
 
     Data Analyst 
    
@@ -114,21 +114,21 @@ Here are some ideas to get you started:
     
     Data Scientist
     
-### Equipo de trabajo: 
+   ### Equipo de trabajo: 
 
 ![image](img/team.png)
 
 - Sistema de recomendación de películas y consultas referentes a películas, series  o documentales.
 Se desarrolló un sistema end to end.
 
-### Tareas realizadas:
+   ### Tareas realizadas:
 
     ETL.
     EDA.
     Modelo de Machine Learning (ML).
     Se desarrolló una interfaz de programación de aplicaciones (API, por sus siglas en inglés) para el deployment del sistema.
 
-### Herramientas:
+   ### Herramientas:
 
     Python
     
@@ -140,14 +140,14 @@ Se desarrolló un sistema end to end.
     
     Entorno Virtual.
 
-### Rol:
+   ### Rol:
 
     Data Engineer
 
 - Análisis de accidentes aéreos.
 Con base a la data proporcionada de accidentes aéreos se realizó un dashboard interactivo en Power BI con 4 KPIs solicitados.
 
-### Tareas realizadas:
+   ### Tareas realizadas:
 
     Se realizó ETL.
     
@@ -155,7 +155,7 @@ Con base a la data proporcionada de accidentes aéreos se realizó un dashboard 
 
     Se hizo un dashboard interactivo para la visualización de los datos relevantes por medio de gráficas y KPIs.
 
-### Herramientas:
+   ### Herramientas:
 
     Visual studio code (VSC)
     
@@ -167,7 +167,7 @@ Con base a la data proporcionada de accidentes aéreos se realizó un dashboard 
 
     GitHub
 
-### Rol:
+   ### Rol:
 
     Data Analyst
     

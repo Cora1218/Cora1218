@@ -12,7 +12,7 @@ adquirido sólidos conocimientos en
 el área de datos.
 
 ## <img src="img/cv_icon.png" width= "30" height= "30"> Background
-[Cv](docs/CV.pdf)
+[Cv](docs/CV Maria Martinez..pdf)
 
 ## <img src="img/contact_icon.png" width= "30" height= "30"> Contacto 
 e-mail: cora12@live.com.mx

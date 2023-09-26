@@ -6,9 +6,8 @@
 Soy una persona responsable, con
 un interés por el análisis de datos.
 Poseo una maestría en ciencias de la
-ingeniería y actualmente estoy en la
-etapa final de un bootcamp en Data
-Science en Soy Henry, donde he
+ingeniería y recién terminé un bootcamp en Data
+Science impartido por "Soy Henry", donde he
 adquirido sólidos conocimientos en
 el área de datos.
 

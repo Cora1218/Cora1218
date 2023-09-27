@@ -1,15 +1,9 @@
 ![image](img/BannerGit1.png)
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                      Hola!, Soy M. Guadalupe (Cora) <img src="https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                      Hi!, I'm M. Guadalupe (Cora) <img src="https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
-## <img src="img/person_icon.png" width= "30" height= "30"> Quién soy?
-Soy una persona responsable, con
-un interés por el análisis de datos.
-Poseo una maestría en ciencias de la
-ingeniería y recién terminé un bootcamp en Data
-Science impartido por "Soy Henry", donde he
-adquirido sólidos conocimientos en
-el área de datos.
+## <img src="img/person_icon.png" width= "30" height= "30"> About me:
+Hi! I am a passionate data analyst with experience in the world of data analysis and visualization. I hold a Master's degree in Engineering Science and have recently completed a Data Science bootcamp taught by "Soy Henry". This training has provided me with solid knowledge in the area of data, complementing my background as a Computer Engineer. I am excited to share my projects and contribute to the field of data analytics.
 
 ## <img src="img/cv_icon.png" width= "30" height= "30"> Background
 [Cv](docs/CV.pdf)

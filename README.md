@@ -10,10 +10,11 @@
 ## <img src="img/contact_icon.png" width= "30" height= "30"> Contacto 
 e-mail: cora12@live.com.mx
 
-linkedIn: https://www.linkedin.com/in/mar%C3%ADa-guadalupe-mart%C3%ADnez-1a489173/
+linkedIn: 
+<a href="https://www.linkedin.com/in/mar%C3%ADa-guadalupe-mart%C3%ADnez-1a489173/" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/linkedin-new4645.jpg" alt="linkedin" height="50" /></a>
 
 ## <img src="img/cv_icon.png" width= "30" height= "30"> Background
-[Cv](docs/CV.pdf)
+[Resume](docs/CV.pdf)
 
 <!--
 **Cora1218/Cora1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

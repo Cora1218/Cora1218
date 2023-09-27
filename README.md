@@ -3,15 +3,18 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                      Hi!, I'm M. Guadalupe (Cora) <img src="https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
 ## <img src="img/person_icon.png" width= "30" height= "30"> About me:
+<p style="text-align: justify;">
 Hi! I am a passionate data analyst with experience in the world of data analysis and visualization. I hold a Master's degree in Engineering Science and have recently completed a Data Science bootcamp taught by "Soy Henry". This training has provided me with solid knowledge in the area of data, complementing my background as a Computer Engineer. I am excited to share my projects and contribute to the field of data analytics.
-
-## <img src="img/cv_icon.png" width= "30" height= "30"> Background
-[Cv](docs/CV.pdf)
+</p>
 
 ## <img src="img/contact_icon.png" width= "30" height= "30"> Contacto 
 e-mail: cora12@live.com.mx
 
 linkedIn: https://www.linkedin.com/in/mar%C3%ADa-guadalupe-mart%C3%ADnez-1a489173/
+
+## <img src="img/cv_icon.png" width= "30" height= "30"> Background
+[Cv](docs/CV.pdf)
+
 <!--
 **Cora1218/Cora1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </tr></table> 
 
-## <img src="img/project1_icon.png" width= "30" height= "30"> Proyectos 
+## <img src="img/project1_icon.png" width= "30" height= "30"> Repositorios 
 
 - Sistema de recomendación de restaurantes a base de reseñas de google maps y yelp de USA.
   Se hizo un analisis de las reseñas de los usuarios de las plataformas Google Maps y Yelp sobre restaurantes para visualizar por medio de un dashboard los 

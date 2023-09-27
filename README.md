@@ -10,7 +10,7 @@
 ## <img src="img/contact_icon.png" width= "30" height= "30"> Contacto 
 e-mail: cora12@live.com.mx
 
-<a href="https://www.linkedin.com/in/mar%C3%ADa-guadalupe-mart%C3%ADnez-1a489173/" target="_blank"><img style="margin: 20px" src="https://logowik.com/content/uploads/images/linkedin-new4645.jpg" alt="linkedin" height="50" /></a>
+<a href="https://www.linkedin.com/in/mar%C3%ADa-guadalupe-mart%C3%ADnez-1a489173/" target="_blank"><img style="margin: 5px" src="https://logowik.com/content/uploads/images/linkedin-new4645.jpg" alt="linkedin" height="100" /></a>
 
 ## <img src="img/cv_icon.png" width= "30" height= "30"> Background
 [Resume](docs/CV.pdf)
